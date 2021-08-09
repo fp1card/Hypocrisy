@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 23/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 23/frameworks/dita/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 23/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2023/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
+<map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="dita-ot.sourceforge.net/ns/201007/dita-ot" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/dev/Eraser/hypocrisy.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">Hypocrisy</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/title ">Hypocrisy</title>
+    <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" is-chapter="true" class="- map/topicref " href="#unique_1" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="arrival"><resourceid appid="arrival" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">The Arrival</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">"Roswell sends its regards"</shortdesc></topicmeta></topicref>
+</opentopic:map><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="arrival" oid="arrival" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">The Arrival</ph></title>
+    <shortdesc class="- topic/shortdesc ">"Roswell sends its regards"</shortdesc>   
+    <conbody class="- topic/body  concept/conbody ">              
+        <simpletable class="- topic/simpletable ">
+            <strow class="- topic/strow ">
+                <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="1">
+                    <div class="- topic/div ">
+                    <simpletable class="- topic/simpletable ">
+                        <sthead class="- topic/sthead ">
+                            <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="1">#</stentry>
+                            <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="1">Title</stentry>
+                            <stentry class="- topic/stentry " dita-ot:x="3" dita-ot:y="1">Length</stentry>
+                        </sthead>
+                        <strow class="- topic/strow ">
+                            <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="2">1</stentry>
+                            <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="2">Born dead, burried alive</stentry>
+                            <stentry class="- topic/stentry " dita-ot:x="3" dita-ot:y="2">04:10</stentry>
+                        </strow>
+                        <strow class="- topic/strow ">
+                            <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="3">2</stentry>
+                            <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="3">Eraser</stentry>
+                            <stentry class="- topic/stentry " dita-ot:x="3" dita-ot:y="3">04:27</stentry>
+                        </strow>
+                        <strow class="- topic/strow ">
+                            <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="4">3</stentry>
+                            <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="4">Stillborn</stentry>
+                            <stentry class="- topic/stentry " dita-ot:x="3" dita-ot:y="4">03:24</stentry>
+                        </strow>
+                        <strow class="- topic/strow ">
+                            <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="5">4</stentry>
+                            <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="5">Slave to the parasites</stentry>
+                            <stentry class="- topic/stentry " dita-ot:x="3" dita-ot:y="5">05:02</stentry>
+                        </strow>
+                        <strow class="- topic/strow ">
+                            <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="6">5</stentry>
+                            <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="6">New World</stentry>
+                            <stentry class="- topic/stentry " dita-ot:x="3" dita-ot:y="6">04:11</stentry>
+                        </strow>
+                        <strow class="- topic/strow ">
+                            <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="7">6</stentry>
+                            <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="7">The Abyss</stentry>
+                            <stentry class="- topic/stentry " dita-ot:x="3" dita-ot:y="7">04:24</stentry>
+                        </strow>
+                        <strow class="- topic/strow ">
+                            <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="8">7</stentry>
+                            <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="8">Dead Sky Dawning</stentry>
+                            <stentry class="- topic/stentry " dita-ot:x="3" dita-ot:y="8">04:28</stentry>
+                        </strow>
+                        <strow class="- topic/strow ">
+                            <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="9">8</stentry>
+                            <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="9">The Departure</stentry>
+                            <stentry class="- topic/stentry " dita-ot:x="3" dita-ot:y="9">05:18</stentry>
+                        </strow>
+                        <strow class="- topic/strow ">
+                            <stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="10">9</stentry>
+                            <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="10">War Within</stentry>
+                            <stentry class="- topic/stentry " dita-ot:x="3" dita-ot:y="10">04:53</stentry>
+                        </strow>
+                    </simpletable>
+                    </div>
+                </stentry>
+                <stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="1">
+                    <image align="center" class="- topic/image " height="400px" href="file:/C:/dev/Eraser/images/cover.jpg" placement="break" width="400px">
+                        <alt class="- topic/alt ">cover</alt>
+                    </image>
+                </stentry>
+            </strow>
+        </simpletable>
+        <div class="- topic/div ">
+            <ph class="- topic/ph ">A review</ph>
+            <p class="- topic/p ">
+                Hypocrisy do not need an introduction, for they have been in the Swedish metal scene for quite a while now. Peter Tägtgren, the mastermind behind the band is well-known for being both a producer, as well as a brilliant musician himself. Back in the 90s he drew his inspiration from the Swedish metal scene and while being in America, from the boys of "Malevolent Creation". It seems that the polarity, which Hypocrisy have created within their own fanbase and discography is a quite odd one. Starting from the very anti-religious orientation of their first works and in respect of such discrepancy which their newer, more science-fiction oriented themes represent, Hypocrisy have managed to induce the splitting of their fanbase. In other words: Peter Tägtgren has been a grey alien geek for over 8 years, this being the pinnacle of his... let's call it obsession, but I'll leave that one for other critics.
+                
+                The direction he has taken is not necessarily bad, it's actually quite refreshing for the most part, as is this album. Now the first thing that jumps in the eye is the strange fuzzy and blurry production. This is becoming a reoccurring aspect in most albums Peter produces. The sound patterns seem to flow into each other, creating a very strange sound pattern, which is better known under the term "Swedish sound" to some. The only thing that differs is the modern and futuristic approach Peter infuses the guitar and keyboard sound with. In his eyes, and I agree for the most part, the trauma and angst the scenario in the concept is supposed to cause is reflected beauteously. Blasting moments followed by very impressive tapping melodies on guitar are underlined with very typical and heavy Swedish death metal riffing. All aspects seem to elevate the listener.
+                
+                Now, the whole point of this album is to abduct (Peter would kiss me for using this word) the listener into the entire dream-like concept spawned from an infectious, yet appealing and creative mind. So aliens are attacking/taking over, whatever... Peter has lost his mind, but this is nothing new. One can imagine being in the middle of the whole alien thing, but to be serious, the music on the LP actually conveys a bit more than a simple science fiction trauma. The deep emotion emitting from this album is almost mesmerizing. Transcendental perception of whatever can lie beyond and inside the human mind is presented in an almost trivial manner. Be it fast, pounding and discharging songs with a overviewable structure or slow and laggard "ballads", every track is as heavy and without compromise as you would expect it. We even have deep built in chanting to further nail down the whole conception. This puts Hypocrisy in a point where they have reached mystical status amongst the modern metal scene. The existence of this album is the perfect example for how modern science fiction can coexist with amazingly authentic sentiments and of course, heavy metal without compromise. Despite the fact that the main theme for "War Within" shares the same melody as "Twinkle, Twinkle, Little Star", there is absolutely nothing wrong with this record.
+                
+                Very,... no, HIGHLY recommended.
+            </p>
+        </div>
+    </conbody>
+</concept></map>
